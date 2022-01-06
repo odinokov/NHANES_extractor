@@ -3,7 +3,7 @@
 # download all NHANES datasets and store them as xz compressed CSV files
 #
 # How to use it:
-# python3.6 yand.py out
+# python3 download.py out
 #
 # Install some libratries if needed, i.e.
 # conda install -c conda-forge pyreadstat requests beautifulsoup4
