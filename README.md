@@ -1,4 +1,4 @@
-# NHANES_extractor
+# NHANES extractor
 
 Download NHANES and extract codes
 
