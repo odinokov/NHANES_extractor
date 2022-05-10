@@ -10,6 +10,6 @@ Download NHANES and extract codes
 
 `python3 download.py <path_to_NHANES_data>`
 
-2. Extract datasets by their codes (one code per line) and merge into a single `csv` file
+2. Get datasets by their codes (one code per line) and merge them into a single `csv` file
 
 `python3 get_records.py <path_to_NHANES_data> <file_with_codes> <output_csv_file>`
