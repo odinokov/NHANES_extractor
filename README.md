@@ -1,6 +1,6 @@
 # NHANES extractor
 
-Download NHANES and extract codes
+Download [NHANES](https://wwwn.cdc.gov/nchs/nhanes/Search/DataPage.aspx) and extract codes
 
 ---
 
